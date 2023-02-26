@@ -32,14 +32,15 @@
 
 #### فصل 1. معرفی ری اکت `Getting started with ReactJS`
 
-| Project Files 📁 |                          GitHub Doc                          |    دسته بندی مطالب    |
-| :-------------: | :----------------------------------------------------------: | :-------------------: |
-|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS) |     معرفی ری اکت      |
-|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#کتابخانه-react-چیست) | کتابخانه ری اکت چیست؟ |
-|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#چرا-react) |      چرا ری اکت؟      |
-|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#نصب-پیش-نیاز) |     نصب پیش نیاز      |
-
-
+| Project Files 📁 |                          GitHub Doc                          |     دسته بندی مطالب     |
+| :-------------: | :----------------------------------------------------------: | :---------------------: |
+|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS) |      معرفی ری اکت       |
+|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#کتابخانه-react-چیست) |  کتابخانه ری اکت چیست؟  |
+|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#چرا-react) |       چرا ری اکت؟       |
+|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#نصب-پیش-نیاز) |      نصب پیش نیاز       |
+|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#ساخت-پروژه-) |      🧪 ساخت پروژه       |
+|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#ساختار-دایرکتوری-react) | ساختار دایرکتوری ری اکت |
+|        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#اجرای-react) |      اجرای ری اکت       |
 
 ## لایسنس
 
