@@ -42,6 +42,16 @@
 |        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#ساختار-دایرکتوری-react) | ساختار دایرکتوری ری اکت |
 |        -        | [مشاهده](/react_basic/Chapter1.Getting_started_with_ReactJS#اجرای-react) |      اجرای ری اکت       |
 
+#### فصل 2. ری اکت چطور کار می کند؟ `How React works`
+
+| Project Files 📁 |                          GitHub Doc                          |     دسته بندی مطالب     |
+| :-------------: | :----------------------------------------------------------: | :---------------------: |
+|        -        |       [مشاهده](/react_basic/Chapter2.How_React_Works)        | ری اکت چطور کار می کند؟ |
+|        -        | [مشاهده](/react_basic/Chapter2.How_React_Works#تکنیک-single-page-application) | Single Page Application |
+|        -        |     [مشاهده](/react_basic/Chapter2.How_React_Works#dom)      |           DOM           |
+|        -        | [مشاهده](/react_basic/Chapter2.How_React_Works#virtual-dom)  |       Virtual DOM       |
+|        -        |     [مشاهده](/react_basic/Chapter2.How_React_Works#jsx)      |           JSX           |
+
 ## لایسنس
 
 با همکاری در توسعه این مخزن، در افزایش سطح دانش جامعه برنامه نویسان سهیم باشید.
